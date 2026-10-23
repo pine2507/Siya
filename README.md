@@ -1,10 +1,6 @@
 # Shreyali Dwivedi — PR & Communications Portfolio
 
 <p align="center">
-  <img src="profile.png" alt="Shreyali Dwivedi" width="130" style="border-radius: 50%;" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/shreyali-dwivedi-809861216/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Role-PR%20Strategist-c9a84c?style=for-the-badge" alt="Role" />
   <img src="https://img.shields.io/badge/Status-Active%20in%20PR-2ecc71?style=for-the-badge" alt="Status" />
