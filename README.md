@@ -1,11 +1,28 @@
 # Shreyali Dwivedi — PR & Communications Portfolio
 
+<p align="center">
+  <img src="profile.png" alt="Shreyali Dwivedi" width="130" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreyali-dwivedi-809861216/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Role-PR%20Strategist-c9a84c?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Status-Active%20in%20PR-2ecc71?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Deployed%20With-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</p>
+
 > **Public Relations Strategist · Media Relations · Corporate Communications**  
 > Dedicated PR professional with hands-on experience in high-impact media outreach, strategic pitching, client communications, and brand narrative development.
 
 ---
 
-## 📌 About Me
+## 🚀 Live Portfolio
+* 🌐 **Website:** [shreyali-dwivedi.netlify.app](https://shreyali-dwivedi.netlify.app)
+* 💼 **LinkedIn:** [linkedin.com/in/shreyali-dwivedi-809861216](https://www.linkedin.com/in/shreyali-dwivedi-809861216/)
+
+---
+
+## 📌 Profile Overview
 
 I am a Public Relations Strategist with a proven track record in media relations, brand communications, and strategic storytelling. Currently working at **Level Up PR** and pursuing a Masters in Mass Communication at **Makhanlal Chaturvedi National University of Journalism and Communication**.
 
@@ -45,9 +62,11 @@ My experience bridges live broadcast newsroom operations at **India News (ITV Ne
 
 ## 🏢 Client Portfolio & Exposure
 
-* **Space World Group** — Telecom & Digital Infrastructure *(Space Telelink, Constl, RANext)*
-* **Rymbal** — Sustainability & Sustainable Materials
-* **Macro Vision Academy** — Education *(Burhanpur, Madhya Pradesh)*
+| Client | Industry / Sector | Focus Area |
+|---|---|---|
+| **Space World Group** | Telecom & Digital Infrastructure | Space Telelink, Constl, RANext |
+| **Rymbal** | Sustainability | Sustainable Materials |
+| **Macro Vision Academy** | Education | Burhanpur, Madhya Pradesh |
 
 ---
 
@@ -61,20 +80,13 @@ My experience bridges live broadcast newsroom operations at **India News (ITV Ne
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Languages
 
 * **Masters of Arts in Mass Communication** (2025 – 2026)  
   *Makhanlal Chaturvedi National University of Journalism and Communication*
 * **Bachelor of Arts in Mass Communication** (2021 – 2025)  
   *Makhanlal Chaturvedi National University of Journalism and Communication*
-
----
-
-## 🌐 Languages
-
-* **Hindi** (Native)
-* **English** (Professional)
-* **Marathi** (Conversational)
+* **Languages:** Hindi (Native) · English (Professional) · Marathi (Conversational)
 
 ---
 
@@ -83,7 +95,8 @@ My experience bridges live broadcast newsroom operations at **India News (ITV Ne
 * **LinkedIn:** [linkedin.com/in/shreyali-dwivedi-809861216](https://www.linkedin.com/in/shreyali-dwivedi-809861216/)
 * **Email:** [shreyalidwivedi25@gmail.com](mailto:shreyalidwivedi25@gmail.com)
 * **Phone:** +91 7028106522
-* **Portfolio Website:** Hosted on Netlify
 
 ---
-*© 2026 Shreyali Dwivedi. All rights reserved.*
+<p align="center">
+  <i>Portfolio maintained & updated automatically via Antigravity 🚀</i>
+</p>
