@@ -271,8 +271,26 @@
     }
     .timeline-meta {
       display: flex; justify-content: space-between;
-      align-items: flex-start; flex-wrap: wrap; gap: 8px;
-      margin-bottom: 8px;
+      align-items: flex-start; flex-wrap: wrap; gap: 12px;
+      margin-bottom: 12px;
+    }
+    .company-logo-box {
+      width: 52px; height: 52px; border-radius: 10px;
+      background: #ffffff; padding: 5px;
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0;
+      border: 1px solid rgba(201,168,76,0.3);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      overflow: hidden;
+    }
+    .company-logo-box.dark-bg {
+      background: #0d0d0d;
+      border-color: rgba(201,168,76,0.4);
+    }
+    .company-logo {
+      max-width: 100%; max-height: 100%;
+      object-fit: contain;
+      display: block;
     }
     .timeline-role { font-size: 1.05rem; font-weight: 600; }
     .timeline-company { color: var(--gold); font-size: 0.88rem; margin-bottom: 4px; }
@@ -614,13 +632,18 @@
         <div class="timeline-dot"></div>
         <div class="timeline-card" style="border-color: rgba(201,168,76,0.35); background: linear-gradient(180deg, rgba(201,168,76,0.05), var(--dark3));">
           <div class="timeline-meta">
-            <div>
-              <div class="timeline-role" style="font-size: 1.15rem;">
-                Public Relations Strategist
-                <span class="badge-present">Present</span>
+            <div style="display: flex; align-items: flex-start; gap: 16px;">
+              <div class="company-logo-box dark-bg">
+                <img src="logo-levelup.png" alt="Level Up PR" class="company-logo">
               </div>
-              <div class="timeline-company">Level Up PR · Full-time</div>
-              <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 2px;"><i class="fas fa-map-marker-alt" style="color:var(--gold);"></i> Mohali district, India · On-site</div>
+              <div>
+                <div class="timeline-role" style="font-size: 1.15rem;">
+                  Public Relations Strategist
+                  <span class="badge-present">Present</span>
+                </div>
+                <div class="timeline-company">Level Up PR · Full-time</div>
+                <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 2px;"><i class="fas fa-map-marker-alt" style="color:var(--gold);"></i> Mohali district, India · On-site</div>
+              </div>
             </div>
             <span class="timeline-date">Sep 2026 – Present</span>
           </div>
@@ -638,9 +661,15 @@
         <div class="timeline-dot"></div>
         <div class="timeline-card">
           <div class="timeline-meta">
-            <div>
-              <div class="timeline-role">PR Intern</div>
-              <div class="timeline-company">Flags Communications, Noida</div>
+            <div style="display: flex; align-items: flex-start; gap: 16px;">
+              <div class="company-logo-box">
+                <img src="logo-flags.png" alt="Flags Communications" class="company-logo">
+              </div>
+              <div>
+                <div class="timeline-role">PR Intern</div>
+                <div class="timeline-company">Flags Communications · Noida</div>
+                <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 2px;"><i class="fas fa-map-marker-alt" style="color:var(--gold);"></i> Noida, Uttar Pradesh, India</div>
+              </div>
             </div>
             <span class="timeline-date">July – Aug 2026</span>
           </div>
@@ -663,10 +692,15 @@
         <div class="timeline-dot"></div>
         <div class="timeline-card">
           <div class="timeline-meta">
-            <div>
-              <div class="timeline-role">Public Relation Internship</div>
-              <div class="timeline-company">Regional Public Relations Pvt Ltd</div>
-              <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 2px;"><i class="fas fa-map-marker-alt" style="color:var(--gold);"></i> Noida, Uttar Pradesh, India</div>
+            <div style="display: flex; align-items: flex-start; gap: 16px;">
+              <div class="company-logo-box">
+                <img src="logo-rpr.png" alt="Regional Public Relations" class="company-logo">
+              </div>
+              <div>
+                <div class="timeline-role">Public Relation Internship</div>
+                <div class="timeline-company">Regional Public Relations Pvt Ltd</div>
+                <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 2px;"><i class="fas fa-map-marker-alt" style="color:var(--gold);"></i> Noida, Uttar Pradesh, India</div>
+              </div>
             </div>
             <span class="timeline-date">Mar 2026 – Jun 2026 · 4 mos</span>
           </div>
@@ -683,9 +717,15 @@
         <div class="timeline-dot"></div>
         <div class="timeline-card">
           <div class="timeline-meta">
-            <div>
-              <div class="timeline-role">Apprentice – Output Department</div>
-              <div class="timeline-company">India News · ITV Network, Delhi</div>
+            <div style="display: flex; align-items: flex-start; gap: 16px;">
+              <div class="company-logo-box">
+                <img src="logo-indianews.png" alt="India News ITV Network" class="company-logo">
+              </div>
+              <div>
+                <div class="timeline-role">Apprentice – Output Department</div>
+                <div class="timeline-company">India News · ITV Network, Delhi</div>
+                <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 2px;"><i class="fas fa-map-marker-alt" style="color:var(--gold);"></i> Delhi, India</div>
+              </div>
             </div>
             <span class="timeline-date">Feb 2023 – Jan 2024</span>
           </div>
